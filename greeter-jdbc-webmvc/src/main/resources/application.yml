@@ -5,6 +5,7 @@ spring:
     password:
   session:
     store-type: jdbc
+
 management:
   endpoint:
     health:

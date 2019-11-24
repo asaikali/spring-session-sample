@@ -23,5 +23,6 @@
   <modules>
     <module>h2-server</module>
     <module>greeter-jdbc-webmvc</module>
+    <module>greeter-redis-webflux</module>
   </modules>
 </project>
