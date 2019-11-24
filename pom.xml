@@ -22,5 +22,6 @@
 
   <modules>
     <module>h2-server</module>
+    <module>greeter-jdbc-webmvc</module>
   </modules>
 </project>
