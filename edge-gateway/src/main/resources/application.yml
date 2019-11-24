@@ -4,6 +4,10 @@ spring:
     store-type: redis
   redis:
     client-name: edge-gateway
+  security:
+    user:
+      name: user
+      password: password
 
 management:
   endpoint:
