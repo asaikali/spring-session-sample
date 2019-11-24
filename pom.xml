@@ -20,5 +20,7 @@
     <java.version>11</java.version>
   </properties>
 
-
+  <modules>
+    <module>h2-server</module>
+  </modules>
 </project>
